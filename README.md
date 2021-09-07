@@ -9,5 +9,9 @@
 </div>
 
 <!--START_SECTION:waka-->
+```text
+Other   12 mins         ███████████████░░░░░░░░░░   60.52 % 
+C#      7 mins          ██████████░░░░░░░░░░░░░░░   39.48 % 
+```
 <!--END_SECTION:waka-->
 
