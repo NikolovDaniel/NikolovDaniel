@@ -1,7 +1,7 @@
 ---
 **Hello, I am Daniel Nikolov.**
 
-**I am currently learning and my main focus is on C# and JavaScript.
+**I am currently learning and my main focus is on C# and JavaScript.**
 
 ## My GitHub Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kace123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
