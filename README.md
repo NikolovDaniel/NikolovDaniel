@@ -1,7 +1,7 @@
 ---
 **Hello, I am Daniel Nikolov.**
 
-**I am currently learning and my main focus is on C# and JavaScript.**
+**I am currently studying and my main focus is on C# and JavaScript.**
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
