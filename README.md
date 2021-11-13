@@ -6,8 +6,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C#      42 mins         ███████████████████████▒░   93.67 % 
-Other   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
