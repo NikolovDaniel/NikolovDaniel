@@ -6,7 +6,15 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
+```text
+From: 05 September 2021 - To: 13 March 2023
 
+Total Time: 178 hrs 23 mins
+
+C#           106 hrs 26 mins >>>>>>>>>>>>>>>----------   59.67 %
+JavaScript   54 hrs 48 mins  >>>>>>>>-----------------   30.72 %
+Other        10 hrs 26 mins  >------------------------   05.85 %
+```
 
 <!--END_SECTION:waka-->
 
