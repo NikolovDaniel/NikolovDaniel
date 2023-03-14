@@ -15,6 +15,7 @@ SQL      0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:wakaweekly-->
 
+📊 **Total Time Spent Coding:**
 <!--START_SECTION:waka-->
 
 ```text
