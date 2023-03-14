@@ -7,13 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 13 March 2023
-
-Total Time: 178 hrs 23 mins
-
-C#           106 hrs 26 mins >>>>>>>>>>>>>>>----------   59.67 %
-JavaScript   54 hrs 48 mins  >>>>>>>>-----------------   30.72 %
-Other        10 hrs 26 mins  >------------------------   05.85 %
+C#       6 hrs 29 mins   ███████████████████░░░░░░   76.66 %
+Binary   1 hr 57 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+XML      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
