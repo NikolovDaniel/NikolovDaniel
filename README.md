@@ -1,7 +1,7 @@
 ---
-**Hello, I am Daniel Nikolov.**
+**Hi, I am Daniel Nikolov.**
 
-**I am currently studying and my main focus is on C# and JavaScript.**
+**I am currently studying EFC, SQL and Web Development with .NET**
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
