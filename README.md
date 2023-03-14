@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 <p>
-  <img src="https://github.com/NikolovDaniel/Software-University--SoftUni-/blob/main/images/codeStats.svg" alt="Coding Activity"/>
+  <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="Coding Activity"/>
 </p>
 
 <!--END_SECTION:waka-->
