@@ -6,9 +6,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-<p>
-  <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="Coding Activity"/>
-</p>
+
 
 <!--END_SECTION:waka-->
 
