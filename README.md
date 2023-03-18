@@ -7,9 +7,8 @@
 <!--START_SECTION:wakaweekly-->
 
 ```text
-C#       7 hrs 13 mins   ████████████████████▒░░░░   80.77 %
-Binary   1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-XML      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+C#       5 hrs 9 mins    ████████████████████░░░░░   80.62 %
+Binary   1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.38 %
 ```
 
 <!--END_SECTION:wakaweekly-->
