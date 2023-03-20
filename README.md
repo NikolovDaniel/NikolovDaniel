@@ -17,7 +17,7 @@ Binary   1 hr 14 mins    █████░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 17 March 2023
+From: 05 September 2021 - To: 18 March 2023
 
 Total Time: 182 hrs 20 mins
 
