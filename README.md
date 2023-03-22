@@ -1,7 +1,7 @@
 ---
 **Hi, I am Daniel Nikolov.**
 
-**I am currently studying EFC, SQL and Web Development with .NET**
+**I am currently studying EFC, SQL and Web Development in .NET**
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:wakaweekly-->
