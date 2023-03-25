@@ -18,7 +18,7 @@ XML      4 mins          ▒░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 22 March 2023
+From: 05 September 2021 - To: 23 March 2023
 
 Total Time: 190 hrs 23 mins
 
