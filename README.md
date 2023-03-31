@@ -19,13 +19,13 @@ XML      2 mins          ░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 28 March 2023
+From: 05 September 2021 - To: 29 March 2023
 
-Total Time: 196 hrs 45 mins
+Total Time: 200 hrs 2 mins
 
-C#           121 hrs 7 mins  >>>>>>>>>>>>>>>----------   61.56 %
-JavaScript   54 hrs 48 mins  >>>>>>>------------------   27.85 %
-Other        10 hrs 26 mins  >------------------------   05.31 %
+C#           123 hrs 33 mins >>>>>>>>>>>>>>>----------   61.76 %
+JavaScript   54 hrs 48 mins  >>>>>>>------------------   27.40 %
+Other        10 hrs 26 mins  >------------------------   05.22 %
 ```
 
 <!--END_SECTION:waka-->
