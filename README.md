@@ -20,13 +20,13 @@ Text     8 mins          ▒░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 29 March 2023
+From: 05 September 2021 - To: 30 March 2023
 
-Total Time: 200 hrs 2 mins
+Total Time: 204 hrs 4 mins
 
-C#           123 hrs 33 mins >>>>>>>>>>>>>>>----------   61.76 %
-JavaScript   54 hrs 48 mins  >>>>>>>------------------   27.40 %
-Other        10 hrs 26 mins  >------------------------   05.22 %
+C#           126 hrs 21 mins >>>>>>>>>>>>>>>----------   61.92 %
+JavaScript   54 hrs 48 mins  >>>>>>>------------------   26.85 %
+Other        10 hrs 26 mins  >------------------------   05.12 %
 ```
 
 <!--END_SECTION:waka-->
