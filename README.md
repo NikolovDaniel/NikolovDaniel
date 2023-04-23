@@ -21,13 +21,13 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 20 April 2023
+From: 05 September 2021 - To: 21 April 2023
 
-Total Time: 209 hrs 7 mins
+Total Time: 210 hrs 7 mins
 
-C#           129 hrs 4 mins  >>>>>>>>>>>>>>>----------   61.72 %
-JavaScript   54 hrs 48 mins  >>>>>>>------------------   26.21 %
-Other        10 hrs 26 mins  >------------------------   04.99 %
+C#           129 hrs 32 mins >>>>>>>>>>>>>>>----------   61.65 %
+JavaScript   54 hrs 48 mins  >>>>>>>------------------   26.08 %
+Other        10 hrs 26 mins  >------------------------   04.97 %
 ```
 
 <!--END_SECTION:waka-->
