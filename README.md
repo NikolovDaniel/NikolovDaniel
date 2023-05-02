@@ -7,10 +7,7 @@
 <!--START_SECTION:wakaweekly-->
 
 ```text
-CSS      47 mins         ████████████░░░░░░░░░░░░░   48.11 %
-Binary   25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-CSHTML   25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaweekly-->
