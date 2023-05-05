@@ -20,14 +20,14 @@ C#       0 secs          ░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 02 May 2023
+From: 05 September 2021 - To: 03 May 2023
 
-Total Time: 215 hrs 37 mins
+Total Time: 217 hrs 19 mins
 
-C#           131 hrs 53 mins >>>>>>>>>>>>>>>----------   61.17 %
-JavaScript   54 hrs 48 mins  >>>>>>-------------------   25.42 %
-Binary       10 hrs 38 mins  >------------------------   04.93 %
-Other        10 hrs 26 mins  >------------------------   04.84 %
+C#           131 hrs 53 mins >>>>>>>>>>>>>>>----------   60.69 %
+JavaScript   54 hrs 48 mins  >>>>>>-------------------   25.22 %
+Binary       10 hrs 38 mins  >------------------------   04.90 %
+Other        10 hrs 26 mins  >------------------------   04.80 %
 ```
 
 <!--END_SECTION:waka-->
