@@ -21,14 +21,20 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 03 May 2023
+From: 05 September 2021 - To: 04 May 2023
 
-Total Time: 217 hrs 19 mins
+Total Time: 218 hrs 4 mins
 
-C#           131 hrs 53 mins >>>>>>>>>>>>>>>----------   60.69 %
-JavaScript   54 hrs 48 mins  >>>>>>-------------------   25.22 %
-Binary       10 hrs 38 mins  >------------------------   04.90 %
-Other        10 hrs 26 mins  >------------------------   04.80 %
+C#           131 hrs 57 mins >>>>>>>>>>>>>>>----------   60.51 %
+JavaScript   54 hrs 50 mins  >>>>>>-------------------   25.15 %
+Binary       10 hrs 41 mins  >------------------------   04.91 %
+Other        10 hrs 26 mins  >------------------------   04.79 %
+HTML         4 hrs 35 mins   >------------------------   02.11 %
+CSS          3 hrs 17 mins   -------------------------   01.51 %
+CSHTML       1 hr 8 mins     -------------------------   00.52 %
+JSON         32 mins         -------------------------   00.25 %
+XML          21 mins         -------------------------   00.16 %
+Text         11 mins         -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
