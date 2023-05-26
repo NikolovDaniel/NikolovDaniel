@@ -16,7 +16,7 @@ No activity tracked
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2021 - To: 23 May 2023
+From: 05 September 2021 - To: 24 May 2023
 
 Total Time: 218 hrs 7 mins
 
