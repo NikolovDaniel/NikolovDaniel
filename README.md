@@ -6,7 +6,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:wakaweekly-->
 
-```text
+```txt
 No activity tracked
 ```
 
