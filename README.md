@@ -7,7 +7,9 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-No activity tracked
+C#       6 hrs 31 mins   ███████████████████████░░   91.67 %
+Binary   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:wakaweekly-->
