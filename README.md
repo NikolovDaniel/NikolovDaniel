@@ -18,7 +18,7 @@ JSON     0 secs          ███░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2021 - To: 12 June 2023
+From: 05 September 2021 - To: 13 June 2023
 
 Total Time: 236 hrs 43 mins
 
