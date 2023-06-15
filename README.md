@@ -7,9 +7,7 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-Binary   0 secs          ████████████░░░░░░░░░░░░░   47.55 %
-C#       0 secs          ██████████▒░░░░░░░░░░░░░░   41.06 %
-JSON     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaweekly-->
