@@ -33,7 +33,7 @@ I have a proven track record of designing and implementing efficient solutions a
   - **GitHub Repository**: [Link](https://github.com/NikolovDaniel/RacketSpeed)
   
 - **Project Name**: PetsBlog
-  - **Description**: Developed a secure JWT authentication middleware in C# to enhance application security. Integrated it seamlessly with ASP.NET Web API for seamless authorization and access control.
+  - **Description**: Designed a web application using ASP.NET Web API, React and MySQL.
   - **GitHub Repository**: [Link](https://github.com/NikolovDaniel/PetsBlog)
 
 ### 🌱 Currently Learning
