@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Daniel Nikolov, a passionate software develope
 
 - **Role**: Back-End Developer
 - **Project**: Healthcare Application
-- **Description**: During my 6-month internship at XYZ Company, I had the privilege of working with a talented team of developers on a healthcare application. My primary focus was on the back-end development, where I contributed to building robust APIs using ASP.NET Web API. This experience allowed me to dive deep into the world of C# and ASP.NET, gaining valuable insights into application architecture, data handling, and performance optimization.
+- **Description**: During my 6-month internship at Mentormate, I had the privilege of working with a talented team of developers on a healthcare application. My primary focus was on the back-end development, where I contributed to building robust APIs using ASP.NET Web API. This experience allowed me to dive deep into the world of C# and ASP.NET, gaining valuable insights into application architecture, data handling, and performance optimization.
 - **Technologies**: .NET, C#, ASP.NET, ASP.NET Web API, JWT 
 - **Skills Developed**: Strong understanding of back-end development, ASP.NET expertise, RESTful API design principles, application performance tuning.
 
