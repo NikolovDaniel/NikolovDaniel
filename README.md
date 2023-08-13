@@ -42,4 +42,4 @@ I'm always eager to expand my skillset. Currently, I'm diving deeper into DevOps
 
 ### 📬 Let's Connect!
 
-Feel free to reach out to me on LinkedIn ([Daniel Nikolov](https://www.linkedin.com/in/daniel-nikolov-1090aa233/) to discuss collaboration opportunities or exciting projects.
+Feel free to reach out to me on LinkedIn [Daniel Nikolov](https://www.linkedin.com/in/daniel-nikolov-1090aa233/) to discuss collaboration opportunities or exciting projects.
