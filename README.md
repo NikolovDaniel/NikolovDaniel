@@ -16,17 +16,22 @@ Welcome to my GitHub profile! I'm Daniel Nikolov, a passionate software develope
 
 ### 💼 Professional Experience
 
-#### Internship at Mentormate (6 months)
+#### Junior Full Stack Developer (Present)
 
-- **Role**: Back-End Developer
-- **Project**: Healthcare Application
-- **Description**: During my 6-month internship at Mentormate, I had the privilege of working with a talented team of developers on a healthcare application. My primary focus was on the back-end development, where I contributed to building robust APIs using ASP.NET Web API. This experience allowed me to dive deep into the world of C# and ASP.NET, gaining valuable insights into application architecture, data handling, and performance optimization.
-- **Technologies**: .NET, C#, ASP.NET, ASP.NET Web API, JWT 
-- **Skills Developed**: Strong understanding of back-end development, ASP.NET expertise, RESTful API design principles, application performance tuning.
+- **Role**: Full Stack Developer
+- **Project**: Healthcare Application / Users,Areas and Equipment Management Application
+- **Description**:
+  1. Developing a Full Stack Healthcare Application with React/.NET/Azure/Auth0 related to managing Organizations, Groups, Patients
+and SMS/Email Survey functionality.
+  2. Developing a Full Stack Outdoor Property Managementc Services Application with JS/jQuery/.NET WebForms/Azure related to
+managing Users, Work Areas and Equipment.
+  3. Collaborated within a team, following Scrum and actively engaging in code reviews, team meetings and documentation efforts.
+- **Technologies**: .NET, JS, React, Auth0, Azure, SMS/Email Services
+- **Skills Developed**: Strong understanding of back-end and front-end development, ASP.NET expertise, RESTful API design principles, Azure Functions / DB Containers (Cosmos), Auth0 Integration.
 
 I have a proven track record of designing and implementing efficient solutions across a range of projects. From developing RESTful APIs using ASP.NET Web API to creating dynamic user interfaces with React/React-Bootstrap or ASP.NET MVC, I'm dedicated to delivering high-quality software that meets both user and business needs.
 
-### 🚀 Recent Projects
+### 🚀 Personal Projects
 
 - **Project Name**: RacketSpeed Web Application
   - **Description**: Designed and implemented a scalable responsive web application using ASP.NET MVC, integrated with MSSQL for data management.
@@ -38,7 +43,7 @@ I have a proven track record of designing and implementing efficient solutions a
 
 ### 🌱 Currently Learning
 
-I'm always eager to expand my skillset. Currently, I'm diving deeper into DevOps and Front-End technologies, aiming to become a successful full-stack developer.
+I'm always eager to expand my skillset. Currently, I'm diving deeper into DevOps and Azure AZ-900 Certificate.
 
 ### 📬 Let's Connect!
 
