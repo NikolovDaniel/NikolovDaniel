@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm Daniel Nikolov, a passionate software develope
 
 - **Languages**: C#, JavaScript
 - **Frameworks**: .NET, ASP.NET Web API, ASP.NET MVC, React
-- **Databases**: MySQL, MSSQL
+- **Databases**: MySQL, MSSQL, NoSQL
 - **ORM**: Entity Framework Core
-- **Authentication & Authorization**: .NET Identity Framework, JWT
+- **Authentication & Authorization**: Auth0, .NET Identity Framework, JWT
 - **Agile Practices**: Scrum, Kanban
-- **Project Management Tools**: Jira
+- **Project Management Tools**: Jira, Azure DevOps
 - **Version Control**: GitHub / GitLab / Git / Branching Strategies
 - **DevOps**: Familiar with CI/CD pipelines, Docker containers and DevOps principles
 
